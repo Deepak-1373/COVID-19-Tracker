@@ -1,3 +1,5 @@
+## Preview(<a href="https://covid-19-tracker-3baed.web.app/">Link</a>)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
