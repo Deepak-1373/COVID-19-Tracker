@@ -1,3 +1,8 @@
+**Screenshot of the Application**
+
+![screencapture-covid-19-tracker-3baed-web-app-2022-05-10-11_43_30](https://user-images.githubusercontent.com/61752151/167560417-0827899c-712a-4e92-ae50-b2706ca5a0d5.jpg)
+
+
 ## Preview(<a href="https://covid-19-tracker-3baed.web.app/">Link</a>)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
