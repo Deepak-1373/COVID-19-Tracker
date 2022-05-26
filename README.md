@@ -22,9 +22,7 @@ https://user-images.githubusercontent.com/61752151/170501601-c3df6424-8a99-4d87-
 
 ## Features
 <ul>
-  <li>Shows Active Cases</li>
-  <li>Shows Recovered Cases</li>
-  <li>Shows Deaths</li>
+  <li>Shows Active, Recovered and Death's Cases</li>
   <li>Having Tabular form of data</li>
   <li>Display Map showing data visually</li>
 </ul>
